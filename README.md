@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ssammyy
 - 👀 I am a software developer 
-- 🌱 Currently working with java and its frameworks as well as other stacks like Oracle DB, Docker to achieve my goals
+- 🌱 Majorly working with java springboot as well as other stacks  React js | React Native | Docker | Automation | Linux | Git 
 - 💞️ I’m esteemed to learn and try new things in this world of tech.
-- 📫 samuikumbu@gmail.com | resumedotsam.com 
+- 📫 samuikumbu@gmail.com | resumedotsam.com | https://www.linkedin.com/in/samuel-boniface a9401323a 
 
 <!---
 ssammyy/ssammyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
